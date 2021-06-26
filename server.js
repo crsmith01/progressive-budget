@@ -17,7 +17,11 @@ app.use(express.static("public"));
 
 mongoose.connect("mongodb://localhost/budget", {
   useNewUrlParser: true,
-  useFindAndModify: false
+  useFindAndModify: false,
+  // configure to use createIndex instead of ensureIndex (a default of Mongoose 5.x)
+  useCreateIndex: true,
+  // to opt in on using the new topology engine from MongoDB driver 3.3x (which is used in Mongoose 5.7)
+  useUnifiedTopology: true
 });
 
 // routes
