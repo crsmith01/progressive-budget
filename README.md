@@ -1,11 +1,10 @@
 # progressive-budget
-Budget tracker app with IndexedDB for offline availability and functionality
 
 ## My Task
 
-My task this week is to add functionality to an existing Budget Tracker application to allow for offline access and functionality.
+My task this week was to add functionality to an existing Budget Tracker application to allow for offline access and functionality.
 
-The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
+The user is able able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they can populate the total when brought back online.
 
 ## Table of Contents
 
@@ -30,6 +29,8 @@ The user will be able to add expenses and deposits to their budget with or witho
 8. HTML and CSS
 9. Compression
 10. IndexedDB
+11. Service worker
+12. Manifest
 ```
 
 # User Story
