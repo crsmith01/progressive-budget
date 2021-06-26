@@ -18,7 +18,7 @@ The user is able able to add expenses and deposits to their budget with or witho
 8. [License](#License)
 
 ## Technologies Used
-```
+
 1. JavaScript
 2. Express.js
 3. Node.js
@@ -31,7 +31,7 @@ The user is able able to add expenses and deposits to their budget with or witho
 10. IndexedDB
 11. Service worker
 12. Manifest
-```
+
 
 # User Story
 
