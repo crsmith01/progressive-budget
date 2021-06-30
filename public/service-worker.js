@@ -1,6 +1,6 @@
 // Two caches need: static and dynamic 
 // Static cache (for static assets like css, js, html, images)
-const CACHE_NAME = "static-cache-v2";
+const CACHE_NAME = 'static-cache-v2';
 // dynamic cache for api routes
 const DATA_CACHE_NAME = 'data-cache-v1';
 
