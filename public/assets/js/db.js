@@ -1,7 +1,7 @@
 let db;
 let budgetVersion;
 
-// Create a new db request for a "budget" database.
+// Create a new database request for a "budget" database.
 const request = indexedDB.open('BudgetDB', budgetVersion || 21);
 
 request.onupgradeneeded = function (e) {
@@ -25,7 +25,7 @@ request.onerror = function (e) {
 
 // For when user goes back online - sends transactions stored in the db  to the server
 function checkDatabase() {
-  console.log('check db invoked');
+  console.log('Check database invoked');
 
   // Open a transaction on BudgetStore db
   let transaction = db.transaction(['BudgetStore'], 'readwrite');
@@ -71,9 +71,9 @@ request.onsuccess = function (e) {
   console.log('success');
   db = e.target.result;
 
-  // Check if app is online before reading from db
+  // Check if app is online before reading from the database
   if (navigator.onLine) {
-    console.log('Backend online! 🗄️');
+    console.log('Backend is online!');
     checkDatabase();
   }
 };
