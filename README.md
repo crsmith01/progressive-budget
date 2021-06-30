@@ -19,11 +19,11 @@ The user is able able to add expenses and deposits to their budget with or witho
 
 ## Technologies Used
 
-1. JavaScript
-2. Express.js
-3. Node.js
-4. MongoDB
-5. Mongoose
+1. MongoDB
+2. Mongoose
+3. JavaScript
+4. Node.js
+5. Express.js
 6. Robo3T
 7. Heroku
 8. HTML and CSS
@@ -55,10 +55,10 @@ THEN that will be shown on the page, and added to their transaction history when
 ## Mock-Up
 ##### UPDATE UPDATE UPDATE
 The following link leads to the GitHub repository for this app:
-![GitHub Link](https://github.com/crsmith01/progress-budget)
+[GitHub Link](https://github.com/crsmith01/progress-budget)
 
 The following link leads to the deployed application on Heroku:
-![Heroku Link](_____________)
+[Heroku Link](_____________)
 
 ## Usage
 <!-- UPDATE UPDATE UPDATE -->

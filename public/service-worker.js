@@ -1,4 +1,4 @@
-// Two caches need 
+// Two caches need: static and dynamic 
 // Static cache (for static assets like css, js, html, images)
 const CACHE_NAME = "static-cache-v2";
 // dynamic cache for api routes
@@ -25,8 +25,7 @@ self.addEventListener("install", function (evt) {
         caches.open(CACHE_NAME).then((cache) => cache.addAll(FILES_TO_CACHE))
     );
 
-    // Step 2 - wait 
-    // tell the browser to activate this service worker immediately once it has finished installing
+    // Step 2 - wait (skip) - tell the browser to activate this service worker immediately once it has finished installing
     self.skipWaiting();
 });
 
