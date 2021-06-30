@@ -90,3 +90,4 @@ self.addEventListener('fetch', function (evt) {
         })
     );
 });
+// When this works correctly, service worker will go from dedundant to running in DevTools
