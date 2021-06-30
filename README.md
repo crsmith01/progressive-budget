@@ -60,6 +60,8 @@ The following link leads to the GitHub repository for this app:
 The following link leads to the deployed application on Heroku:
 [Heroku Link](_____________)
 
+[Lighthouse Report](/assets/lighthouse-report.png)
+
 ## Usage
 <!-- UPDATE UPDATE UPDATE -->
 1. Install dependencies: ```npm install```
