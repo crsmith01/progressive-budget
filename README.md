@@ -60,9 +60,9 @@ The following link leads to the GitHub repository for this app:
 The following link leads to the deployed application on Heroku:
 [Heroku Link](https://mighty-sierra-97786.herokuapp.com/)
 
-[Lighthouse Report](/assets/lighthouse-report.png)
+![Lighthouse Report](/assets/lighthouse-report.png)
 
-[Screenshot](/assets/pwa-screenshot.png)
+![Screenshot](/assets/pwa-screenshot.png)
 
 
 
