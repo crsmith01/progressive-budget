@@ -93,3 +93,5 @@ const saveRecord = (record) => {
 
 // Listen for app coming back online
 window.addEventListener('online', checkDatabase);
+
+// When this file works correctly, IndexedDB will appear in DevTools

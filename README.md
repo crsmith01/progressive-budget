@@ -62,6 +62,10 @@ The following link leads to the deployed application on Heroku:
 
 [Lighthouse Report](/assets/lighthouse-report.png)
 
+[Screenshot](/assets/pwa-screenshot.png)
+
+
+
 ## Usage
 <!-- UPDATE UPDATE UPDATE -->
 1. Install dependencies: ```npm install```
