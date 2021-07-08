@@ -81,7 +81,7 @@ self.addEventListener('fetch', function (event) {
 
     // If the fetch request is not for an API call (does not have the string '/api/'), serve the static assets 
     event.respondWith(
-        // open() method to grab the cache for static assetss (CACHE_NAME)
+        // open() method to grab the cache for static assets (CACHE_NAME)
         caches.open(CACHE_NAME).then(cache => {
             // return the match within this cache 
             return cache.match(event.request).then(response => {
