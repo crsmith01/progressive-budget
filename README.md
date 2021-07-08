@@ -58,7 +58,7 @@ The following link leads to the GitHub repository for this app:
 [GitHub Link](https://github.com/crsmith01/progress-budget)
 
 The following link leads to the deployed application on Heroku:
-[Heroku Link](_____________)
+[Heroku Link](https://mighty-sierra-97786.herokuapp.com/))
 
 [Lighthouse Report](/assets/lighthouse-report.png)
 
