@@ -67,7 +67,6 @@ The following link leads to the deployed application on Heroku:
 
 
 ## Usage
-<!-- UPDATE UPDATE UPDATE -->
 1. Install dependencies: ```npm install```
 
 2. Start the server with ```npm start```
