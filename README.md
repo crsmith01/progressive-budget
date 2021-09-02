@@ -53,15 +53,14 @@ THEN that will be shown on the page, and added to their transaction history when
 
 
 ## Mock-Up
-##### UPDATE UPDATE UPDATE
-The following link leads to the GitHub repository for this app:
-[GitHub Link](https://github.com/crsmith01/progress-budget)
+Click [here](https://github.com/crsmith01/progress-budget) to view the GitHub repository for this app.
 
-The following link leads to the deployed application on Heroku:
-[Heroku Link](https://mighty-sierra-97786.herokuapp.com/)
+Click [here](https://mighty-sierra-97786.herokuapp.com/) to view the deployed application on Heroku.
 
+1. Lighthouse Report
 ![Lighthouse Report](/assets/lighthouse-report.png)
 
+2. Screenshot of app
 ![Screenshot](/assets/pwa-screenshot.png)
 
 
