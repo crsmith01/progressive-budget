@@ -4,7 +4,7 @@
 
 My task this week was to add functionality to an existing Budget Tracker application to allow for offline access and functionality.
 
-The user is able able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they can populate the total when brought back online.
+The user is able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they can populate the total when brought back online.
 
 ## Table of Contents
 
